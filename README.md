@@ -1,4 +1,4 @@
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/f3a6bf3f-fa12-4800-aaa0-8f2d8305667d" /># SPADE: Spatial Transcriptomics Data Visualization Dashboard
+#SPADE: Spatial Transcriptomics Data Visualization Dashboard
 
 ![Dashboard Overview](./img/dashboard.png)
 

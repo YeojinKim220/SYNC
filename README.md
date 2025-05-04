@@ -32,6 +32,7 @@ SPADE (Simultaneous Projection and Analysis of Dimensionality-reduced Expression
 
 1. First, process the data:
 ```bash
+cd src
 python data_processing.py
 ```
 This will create necessary pickle files in the `processed_data` directory.

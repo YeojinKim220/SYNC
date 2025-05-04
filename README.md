@@ -2,10 +2,10 @@
 
 ![Dashboard Overview](./img/dashboard.png)
 
+SPADE (Simultaneous Projection and Analysis of Dimensionality-reduced Expression) is an interactive visualization tool designed for exploring and analyzing high-dimensional spatial transcriptomic data.
+
 ## Contributor
 Yeojin Kim, Aileen He, Jiaxun Li, Felix Rivera Moctezuma
-
-SPADE (Simultaneous Projection and Analysis of Dimensionality-reduced Expression) is an interactive visualization tool designed for exploring and analyzing high-dimensional spatial transcriptomic data.
 
 ## Features
 

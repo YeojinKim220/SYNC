@@ -1,6 +1,6 @@
 # SPADE: Spatial Transcriptomics Data Visualization Dashboard
 
-![Dashboard Overview](img/dashborad.png)
+![Dashboard Overview](./img/dashboard.png)
 
 SPADE (Simultaneous Projection and Analysis of Dimensionality-reduced Expression) is an interactive visualization tool designed for exploring and analyzing high-dimensional spatial transcriptomic data.
 

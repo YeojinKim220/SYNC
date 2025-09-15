@@ -1,4 +1,4 @@
-# SPADE: Spatial Transcriptomics Data Visualization Dashboard
+# SYNC: Spatial Transcriptomics Data Visualization Dashboard
 
 ![Dashboard Overview](./img/dashboard.png)
 

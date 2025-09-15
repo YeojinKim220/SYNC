@@ -2,7 +2,7 @@
 
 ![Dashboard Overview](./img/dashboard.png)
 
-SPADE (Simultaneous Projection and Analysis of Dimensionality-reduced Expression) is an interactive visualization tool designed for exploring and analyzing high-dimensional spatial transcriptomic data.
+Spatial-Transcriptomic Visualization with Interactive Clustering (SYNC), is an interactive visualization tool designed for exploring and analyzing high-dimensional spatial transcriptomic data.
 
 ## Contributor
 Yeojin Kim, Aileen He, Jiaxun Li, Felix Rivera Moctezuma
